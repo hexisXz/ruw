@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ruw
+Version: 0.0.1
+Summary: print russian words
+Author: hexis (Quinn kelly)
+Author-email: <qk371994@gmail.com>
+Keywords: python,words,random,russian,learn
+Classifier: Development Status :: 1 - Developing
+Classifier: Intended Audience :: users
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Linux
+License-File: LICENSE
+Requires-Dist: random
