@@ -17,8 +17,9 @@ pip install ruw
 ```
 
 ## arch linux
+```sh
 yay -S ruw (not in the AUR YET.)
-
+```
 
 
 
